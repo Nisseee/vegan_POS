@@ -1,0 +1,6 @@
+20004,apple,Fruit,16.5,100,1650.0,1452.0
+3205,papaya2,Fruit,7.8,14,109.2,15.600001
+48656,ricenew,Vegetable,9.6,102,979.2,19.199997
+56582,kalabasa,Fruit,2.3,13,29.9,2.3
+36722,white onions,Vegetable,24.5,150,3675.0,1225.0
+61898,apple red,Fruit,1.2,150,180.0,36.0
