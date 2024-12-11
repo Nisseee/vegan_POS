@@ -1,9 +1,0 @@
-3205,papaya2,Fruit,12,59.2,14,0
-39686,guava,Fruit,12,100,13,0
-88949,guava1,Fruit,12,88.0,13,0
-36722,white onions,Vegetable,100,73.5,150,0
-16178,grapes,Fruit,13.5,0.08,15.6,0.1
-56582,kalabasa,Fruit,12,34.91,13,0
-48656,ricenew,Vegetable,100,91.44,102,10.3
-32958,sitaw,Vegetable,12,190.0,15,10.0
-61898,apple red,Fruit,120,2998.8,150,0
